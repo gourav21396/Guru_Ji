@@ -6,7 +6,7 @@ def main():
 
   Opr = input("Please select an operation to perform:")
     
-
+  print('branching strategy')
   if Opr == "+":
     print("The result is:", A + B)
   elif Opr == "-":
